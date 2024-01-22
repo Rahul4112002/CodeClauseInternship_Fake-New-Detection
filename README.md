@@ -1,3 +1,6 @@
+
+https://github.com/Rahul4112002/Fake-New-Detection/assets/124488758/92732c3e-9e67-4258-9e59-0388b05fa45f
+
 # Mini Project on Machine Learning: Fake News Detection
 This repository contains the code and resources for a mini project with the aim of predicting whether a news headline is fake or genuine. The project utilizes the Passive Aggressive Classifier and is implemented as a web application using Python Flask, HTML, CSS, and other technologies.
 # Project Overview
@@ -60,5 +63,4 @@ The machine learning model used for fake news headline detection is trained usin
 # Contributions
 Contributions to this project are welcome. If you want to make improvements, fix issues, or add new features, please create a pull request.
 
-https://github.com/Rahul4112002/Fake-New-Detection/assets/124488758/92732c3e-9e67-4258-9e59-0388b05fa45f
 
